@@ -32,6 +32,6 @@ I'm Luigi and I do things on the computer.
 ## Contact me 📝
 
 [![TELEGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LuigiImVector)
-[![LINKEDIN](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luigi-zoccali/)
+[![LINKEDIN](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luigi-zoccali/){:target="_blank"}
 
 ![VIEWS](https://komarev.com/ghpvc/?username=LuigiImVector&style=flat-square)
