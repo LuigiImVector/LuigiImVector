@@ -23,8 +23,15 @@ I'm Luigi and I do things on the computer.
 ![XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 
+## I'm learning 📚
+
+![ANGULAR](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![GITHUB ACTIONS](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+
 ## Contact me 📝
 
 [![TELEGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LuigiImVector)
+[![LINKEDIN](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luigi-zoccali/)
 
 ![VIEWS](https://komarev.com/ghpvc/?username=LuigiImVector&style=flat-square)
